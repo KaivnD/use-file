@@ -6,8 +6,18 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
-    "dist",
-    "src"
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaivnD/use-file"
+  },
+  "keywords": [
+    "react hook",
+    "file reader",
+    "use file reader",
+    "use file",
+    "FileReader"
   ],
   "engines": {
     "node": ">=10"
